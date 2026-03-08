@@ -29,7 +29,7 @@
 
 - 🥉 3rd place in the student track of the **"AI Academy hackathon 2025"**
 - 🥉 3rd place in the **"Russian Olympiad in Artificial Intelligence 2025"**
-- 🥉 3rd place in the **"Innopolis Open in Artifical Intelligence 2025"**
+- 🥉 3rd place in the **"Innopolis Open in Artificial Intelligence 2025"**
 
 ---
 
