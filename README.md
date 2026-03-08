@@ -5,10 +5,6 @@
   <b><i>Turning ideas into intelligent systems.</i></b>
 </p>
 
-<p align="center">
-  <img src="banner.png" alt="I love Data Science" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack
@@ -33,6 +29,7 @@
 
 - 🥉 3rd place in the student track of the **"AI Academy hackathon 2025"**
 - 🥉 3rd place in the **"Russian Olympiad in Artificial Intelligence 2025"**
+- 🥉 3rd place in the **"Innopolis Open in Artifical Intelligence 2025"**
 
 ---
 
